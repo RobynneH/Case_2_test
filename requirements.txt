@@ -2,5 +2,4 @@ pandas==2.0.3
 numpy==1.24.4
 plotly==5.16.1
 kaggle==1.5.16
-zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
 streamlit==1.26.0
